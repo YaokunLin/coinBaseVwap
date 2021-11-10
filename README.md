@@ -13,5 +13,17 @@ Repo(public): https://github.com/YaokunLin/coinBaseVwap/blob/main/VWMP_ScratchWo
 
 main object implementation and design:
 ![image](https://user-images.githubusercontent.com/72329369/141181083-5531b2fb-d231-444d-843e-43356b24523c.png)
-![image](https://user-images.githubusercontent.com/72329369/141181139-ef1e309b-6cd4-47a4-9c6c-d9a25ca35e2b.png)
+![image](https://user-images.githubusercontent.com/72329369/141181800-4dad01ec-fe60-4c23-b843-55b925fcea51.png)
 ![image](https://user-images.githubusercontent.com/72329369/141181173-8a91d712-ce87-4aab-a984-759d47066a92.png)
+
+Working Example:
+![image](https://user-images.githubusercontent.com/72329369/141181876-2c6ad9d1-4a12-4ca3-a391-5e6c4bc2dea7.png)
+
+Unit tests Implementation:
+![image](https://user-images.githubusercontent.com/72329369/141181946-fab7e037-6519-4c6b-92d6-bbf20c121ef8.png)
+![image](https://user-images.githubusercontent.com/72329369/141181977-78d62148-642a-4ca1-9c2c-cae4b485c0c0.png)
+![image](https://user-images.githubusercontent.com/72329369/141181996-03db0658-6ff0-4285-93ab-4573a427046e.png)
+
+Test Results:
+![image](https://user-images.githubusercontent.com/72329369/141182027-b1da2083-e1ce-46b7-b17d-a235a55aa2e3.png)
+
